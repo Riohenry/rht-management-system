@@ -53,7 +53,7 @@ function TotalCustomers() {
   return (
     <div className="flex flex-col items-start justify-center">
       <div className="text-xs text-muted-foreground">Responses Received</div>
-      <div className="text-2xl font-medium">{totalCustomers} Customers</div>
+      <div className="text-2xl font-medium">{totalCustomers} Patients</div>
     </div>
   );
 }
