@@ -6,17 +6,17 @@ export const metrics = [
   },
   {
     title: "Meetings",
-    value: "4,564",
+    value: "64",
     change: 0.02,
   },
   {
     title: "Doctors",
-    value: "18,208",
+    value: "20",
     change: 0.08,
   },
   {
     title: "Workers",
-    value: "17",
+    value: "37",
     change: 0.08,
   },
 ];

@@ -21,7 +21,7 @@ export const navigations: Navigation[] = [
   {
     icon: MessagesSquare,
     name: "Patients",
-    href: "/",
+    href: "",
   },
     {
     icon: MessagesSquare,
@@ -31,16 +31,21 @@ export const navigations: Navigation[] = [
       {
     icon: MessagesSquare,
     name: "lab",
-    href: "/",
+    href: "",
   },
         {
     icon: MessagesSquare,
-    name: "Reports",
-    href: "/",
+    name: "Upload",
+    href: "",
   },
           {
     icon: MessagesSquare,
-    name: "Download",
-    href: "/",
+    name: "Reports",
+    href: "",
+  },
+            {
+    icon: MessagesSquare,
+    name: "Analysis",
+    href: "",
   },
 ];
