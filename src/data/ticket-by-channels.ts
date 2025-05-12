@@ -8,12 +8,12 @@ export const ticketByChannels = [
     value: 834,
   },
   {
-    type: "Contact Form",
+    type: "Website",
     value: 276,
   },
   {
-    type: "Messenger",
-    value: 250,
+    type: "Calls",
+    value: 750,
   },
   {
     type: "WhatsApp",

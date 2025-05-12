@@ -8,7 +8,7 @@ export type Navigation = {
 };
 
 export const siteConfig = {
-  title: "VisActor Next Template",
+  title: "RURAL HEALTH TEAM DASHBOARD",
   description: "Template for VisActor and Next.js",
 };
 
@@ -21,7 +21,7 @@ export const navigations: Navigation[] = [
   {
     icon: MessagesSquare,
     name: "Patients",
-    href: "/ticket",
+    href: "/",
   },
     {
     icon: MessagesSquare,
@@ -31,11 +31,16 @@ export const navigations: Navigation[] = [
       {
     icon: MessagesSquare,
     name: "lab",
-    href: "/ticket",
+    href: "/",
   },
         {
     icon: MessagesSquare,
     name: "Reports",
-    href: "/ticket",
+    href: "/",
+  },
+          {
+    icon: MessagesSquare,
+    name: "Download",
+    href: "/",
   },
 ];
